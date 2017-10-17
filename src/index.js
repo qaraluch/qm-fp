@@ -1,8 +1,8 @@
-import curry from "../src/curry";
-import compose from "../src/compose";
-import pipe from "../src/pipe";
-import tap from "../src/tap";
-import trace from "../src/trace";
+import curry from "../dist/curry";
+import compose from "../dist/compose";
+import pipe from "../dist/pipe";
+import tap from "../dist/tap";
+import trace from "../dist/trace";
 
 const map = curry((fn, arr) => arr.map(fn));
 const filter = curry((fn, arr) => arr.filter(fn));

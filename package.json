@@ -1,7 +1,7 @@
 {
   "name": "qm-fp",
   "homepage": "https://github.com/qaraluch/qm-fp",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "My functional programming utils.",
   "license": "MIT",
   "author": {
